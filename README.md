@@ -11,7 +11,7 @@
 
 
 ## Get start
-- git clone https://github.com/halexx7/DJ_uk_newcity.git
+- git clone https://github.com/SuvorovAV/pyGame_Space_Invaders.git
 - cd pyGame_Space_Invaders/
 - python3 -m venv venv
 - source venv/bin/activate
